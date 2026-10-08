@@ -11,4 +11,4 @@ dependencies = [
 ]
 
 [tool.fastapi]
-entrypoint = "main:app"
+entrypoint = "learning.main:app"
